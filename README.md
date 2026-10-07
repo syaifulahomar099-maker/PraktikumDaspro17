@@ -1,7 +1,7 @@
 Ini adalah repository pertama saya
-Nama   :......
-Nim    :.....
-Kelas  :..Yusr....dvsfb 
+Nama   : Muhammad syaifullah omar
+Nim    : 264107020170
+Kelas  : TI 1A
 
 Hasil Uji Studi Kasus 2 oleh Muhammad Yusron Elyadi
 
