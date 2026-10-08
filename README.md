@@ -1,4 +1,4 @@
 Ini adalah repository pertama saya
-Nama   :......
-Nim    :.....
-Kelas  :......dvsfb 
+Nama   : Muhammad syaifullah omar
+Nim    : 264107020170
+Kelas  : TI 1A
